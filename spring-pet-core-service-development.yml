@@ -5,4 +5,5 @@ eureka:
   instance:
     preferIpAddress: true
     
-region: USA
+region:
+  state: CA
