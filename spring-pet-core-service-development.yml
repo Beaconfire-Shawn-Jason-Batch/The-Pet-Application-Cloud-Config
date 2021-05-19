@@ -12,4 +12,4 @@ management:
         include: "*"
 
 region:
-  state: NY
+  state: CA
