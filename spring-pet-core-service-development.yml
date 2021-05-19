@@ -5,11 +5,5 @@ eureka:
   instance:
     preferIpAddress: true
 
-management:
-  endpoints:
-    web:
-      exposure:
-        include: "*"
-
 region:
   state: CA
