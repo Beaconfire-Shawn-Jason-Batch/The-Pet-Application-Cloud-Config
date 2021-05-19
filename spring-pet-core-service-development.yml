@@ -4,6 +4,12 @@ eureka:
       defaultZone: http://localhost:8761/eureka/
   instance:
     preferIpAddress: true
-    
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
+
 region:
   state: NY
