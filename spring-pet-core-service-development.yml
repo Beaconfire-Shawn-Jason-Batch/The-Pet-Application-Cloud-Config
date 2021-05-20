@@ -6,4 +6,4 @@ eureka:
     preferIpAddress: true
 
 region:
-  state: CA
+  state: NY
