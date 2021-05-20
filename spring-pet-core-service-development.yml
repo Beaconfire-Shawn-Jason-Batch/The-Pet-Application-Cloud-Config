@@ -5,5 +5,13 @@ eureka:
   instance:
     preferIpAddress: true
 
+management:
+  security:
+    enabled: false
+  endpoints:
+    web:
+      exposure:
+        include: "*"
+
 region:
   state: NY
