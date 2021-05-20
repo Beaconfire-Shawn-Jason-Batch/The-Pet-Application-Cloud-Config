@@ -15,3 +15,5 @@ rabbitmq:
       enabled: true
       refresh:
         enabled: true
+
+timezone: UTC
