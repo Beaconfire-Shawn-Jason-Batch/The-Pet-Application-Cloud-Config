@@ -25,4 +25,4 @@ spring:
       refresh:
         enabled: true
 
-timezone: UTC
+timezone: EST
