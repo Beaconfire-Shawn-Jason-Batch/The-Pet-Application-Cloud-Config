@@ -26,4 +26,4 @@ spring:
         enabled: true
 
 region:
-  state: CA
+  state: NY
