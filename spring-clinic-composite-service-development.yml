@@ -30,3 +30,6 @@ spring:
     sampler:
       probability: 1
 
+logstash:
+  host: localhost
+  port: 5000
