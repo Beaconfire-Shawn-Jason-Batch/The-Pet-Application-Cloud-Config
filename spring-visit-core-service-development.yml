@@ -34,4 +34,4 @@ logstash:
   host: localhost
   port: 5000
 
-timezone: EST
+timezone: PST
