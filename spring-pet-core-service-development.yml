@@ -35,4 +35,4 @@ logstash:
   port: 5000
 
 region:
-  state: NY
+  state: CA
